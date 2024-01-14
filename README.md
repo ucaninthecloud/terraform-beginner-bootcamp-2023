@@ -1,6 +1,6 @@
 # Terraform Beginner Bootcamp 2023
 
-## Semantic versioning
+## Semantic versioning :mage:
 
 The versioning will be based on standard semantic versioning [semver.org](https://semver.org/)
 
